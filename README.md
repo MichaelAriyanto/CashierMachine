@@ -6,7 +6,7 @@
 
 
 
-### Description
+## Description
 
 Program Kasir ini merupakan sebuah program yang dibuat untuk membantu pengusaha toko (e.g. minimarket) dalam melakukan perhitungan penjualan barang sehingga proses jual-beli dapat berlangsung dengan lancar. 
 
@@ -23,7 +23,7 @@ Program ini mempunyai kemampuan untuk menjalankan kasir sederhana yang dapat mem
 
 
 
-### Installation
+## Installation
 
 System Requirements: Windows 
 Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
@@ -35,9 +35,9 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 
 
 
-### Usage
+## Usage
 
-#### Main Display
+### Main Display
 
 ![untitled](https://user-images.githubusercontent.com/39557439/50573073-60996d00-0dff-11e9-9d58-095b4c6bd4ec.png)
 
@@ -49,7 +49,7 @@ Menu utama pada program ini terdiri dari 5 fitur, yaitu
 4. Admin Login
 5. Exit
 
-#### <u>Program Kasir</u>
+### <u>Program Kasir</u>
 
 ![untitled1](https://user-images.githubusercontent.com/39557439/50573074-62fbc700-0dff-11e9-82a3-d40105685e56.png)
 
@@ -57,7 +57,7 @@ Untuk melakukan perhitungan pembelian dengan mesin kasir, pengguna memasukan bar
 
 
 
-#### <u>Antrian</u>
+### <u>Antrian</u>
 
 ![untitled8](https://user-images.githubusercontent.com/39557439/50573081-642cf400-0dff-11e9-8d0c-aca0b31c5bc9.png)
 
@@ -94,7 +94,7 @@ Exit digunakan untuk keluar dari menu antrian dan kembali menuju menu / display 
 
 
 
-#### <u>Help</u>
+### <u>Help</u>
 
 ![untitled2](https://user-images.githubusercontent.com/39557439/50573075-62fbc700-0dff-11e9-8d80-5b47f0a353a3.png)
 
@@ -102,7 +102,7 @@ Menu help berisi panduan singkat untuk menjalankan program kasir ini.
 
 
 
-#### <u>Menu Admin</u>
+### <u>Menu Admin</u>
 
 ![untitled3](https://user-images.githubusercontent.com/39557439/50573076-62fbc700-0dff-11e9-84c1-9f10d2825bea.png)
 
@@ -153,7 +153,7 @@ Menu untuk keluar dari program kasir.
 
 
 
-#### <u>Exit</u>
+### <u>Exit</u>
 
 ![untitled6](https://user-images.githubusercontent.com/39557439/50573079-63945d80-0dff-11e9-9354-01df4c68b6d7.png)
 
@@ -161,6 +161,6 @@ Menu untuk keluar dari program kasir.
 
 
 
-### License
+## License
 
 MIT License
