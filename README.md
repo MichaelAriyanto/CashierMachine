@@ -37,7 +37,7 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 
 #### Main Display
 
-![Untitled](C:\Users\Michael\Pictures\proyek\Untitled.png)
+![untitled](https://user-images.githubusercontent.com/39557439/50573073-60996d00-0dff-11e9-9d58-095b4c6bd4ec.png)
 
 Menu utama pada program ini terdiri dari 5 fitur, yaitu 
 
