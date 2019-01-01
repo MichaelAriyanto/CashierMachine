@@ -22,6 +22,7 @@ Program ini mempunyai kemampuan untuk menjalankan kasir sederhana yang dapat mem
 
 
 
+
 ### Installation
 
 System Requirements: Windows 
@@ -30,6 +31,7 @@ Untuk dapat menggunakan Dijk-Path, Anda perlu melakukan hal berikut :
 1. Mendownload source-code nya terlebih dahulu.
 2. Buka source-code menggunakan C/C++ IDE.
 3. Kemudian, jalankan dengan cara meng-compile main-program.c
+
 
 
 
