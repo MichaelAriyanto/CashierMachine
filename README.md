@@ -49,7 +49,7 @@ Menu utama pada program ini terdiri dari 5 fitur, yaitu
 
 #### <u>Program Kasir</u>
 
-![Untitled1](C:\Users\Michael\Pictures\proyek\Untitled1.png)
+![untitled1](https://user-images.githubusercontent.com/39557439/50573074-62fbc700-0dff-11e9-82a3-d40105685e56.png)
 
 Untuk melakukan perhitungan pembelian dengan mesin kasir, pengguna memasukan barcode untuk benda yang ingin dibeli (1-20) lalu tekan enter untuk terus melanjutkan pembelian. Setelah pengguna selesai menginput barang-barang yang ingin dibeli, masukan input 0 lalu tekan enter untuk menghitung harga total dari barang-barang yang dibeli. Masukan jumlah uang pembeli dan program akan menghitung kembalian pembeli.
 
@@ -57,7 +57,7 @@ Untuk melakukan perhitungan pembelian dengan mesin kasir, pengguna memasukan bar
 
 #### <u>Antrian</u>
 
-![Untitled8](C:\Users\Michael\Pictures\proyek\Untitled8.png)
+![untitled8](https://user-images.githubusercontent.com/39557439/50573081-642cf400-0dff-11e9-8d0c-aca0b31c5bc9.png)
 
 Menu antrian terdiri dari 4 macam fitur, yaitu 
 
@@ -94,7 +94,7 @@ Exit digunakan untuk keluar dari menu antrian dan kembali menuju menu / display 
 
 #### <u>Help</u>
 
-![Untitled2](C:\Users\Michael\Pictures\proyek\Untitled2.png)
+![untitled2](https://user-images.githubusercontent.com/39557439/50573075-62fbc700-0dff-11e9-8d80-5b47f0a353a3.png)
 
 Menu help berisi panduan singkat untuk menjalankan program kasir ini.
 
@@ -102,13 +102,13 @@ Menu help berisi panduan singkat untuk menjalankan program kasir ini.
 
 #### <u>Menu Admin</u>
 
-![Untitled3](C:\Users\Michael\Pictures\proyek\Untitled3.png)
+![untitled3](https://user-images.githubusercontent.com/39557439/50573076-62fbc700-0dff-11e9-84c1-9f10d2825bea.png)
 
 Sebelum pengguna masuk ke menu admin, pengguna diharuskan untuk memasukan password untuk dapat mengakses menu admin.
 
 
 
-![Untitled4](C:\Users\Michael\Pictures\proyek\Untitled4.png)
+![untitled4](https://user-images.githubusercontent.com/39557439/50573077-63945d80-0dff-11e9-9c89-7729ff9b62fe.png)
 
 Menu admin terdiri dari 4 macam fitur, yaitu 
 
@@ -121,7 +121,7 @@ Menu admin terdiri dari 4 macam fitur, yaitu
 
 ##### Edit Harga Barang
 
-![Untitled9](C:\Users\Michael\Pictures\proyek\Untitled9.png)
+![untitled9](https://user-images.githubusercontent.com/39557439/50573082-642cf400-0dff-11e9-83e9-8ec4b73d0528.png)
 
 Fitur ini digunakan untuk mengubah harga sebuah barang pada mesin kasir. Dengan menggunakan database external, harga barang yang diubah melalui mesin kasir dapat diubah secara permanen dan setelah mematikan program, data harga yang diubah akan tetap sama.
 
@@ -129,7 +129,7 @@ Fitur ini digunakan untuk mengubah harga sebuah barang pada mesin kasir. Dengan 
 
 ##### Ganti Password
 
-![Untitled5](C:\Users\Michael\Pictures\proyek\Untitled5.png)
+![untitled5](https://user-images.githubusercontent.com/39557439/50573078-63945d80-0dff-11e9-869a-c542eb3e6a58.png)
 
 Menu ganti password diawali dengan memasukan password admin pada mulanya, lalu program akan meminta pengguna untuk memasukan password baru anda.
 
@@ -137,7 +137,7 @@ Menu ganti password diawali dengan memasukan password admin pada mulanya, lalu p
 
 ##### Help
 
-![Untitled7](C:\Users\Michael\Pictures\proyek\Untitled7.png)
+![untitled7](https://user-images.githubusercontent.com/39557439/50573080-642cf400-0dff-11e9-975a-40c1977ab794.png)
 
 Berisi panduan singkat tentang cara penggunaan program.
 
@@ -145,7 +145,7 @@ Berisi panduan singkat tentang cara penggunaan program.
 
 ##### Exit
 
-![Untitled6](C:\Users\Michael\Pictures\proyek\Untitled6.png)
+![untitled6](https://user-images.githubusercontent.com/39557439/50573079-63945d80-0dff-11e9-9354-01df4c68b6d7.png)
 
 Menu untuk keluar dari program kasir.
 
@@ -153,7 +153,7 @@ Menu untuk keluar dari program kasir.
 
 #### <u>Exit</u>
 
-![Untitled6](C:\Users\Michael\Pictures\proyek\Untitled6.png)
+![untitled6](https://user-images.githubusercontent.com/39557439/50573079-63945d80-0dff-11e9-9354-01df4c68b6d7.png)
 
 Menu untuk keluar dari program kasir.
 
